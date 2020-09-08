@@ -33,7 +33,7 @@ with open("./result/network" + sys.argv[1] + ".txt", "r") as f:
             next = next.split()
             next = next[2]
             net.add_target(name, next, 'Ach', 5, 1)
-    for i in range(int(neuron*0.1), neuron):
+    for i in range(int(neuron*0.9), neuron):
         name = f.readline()
         name = name.strip()  #remove '\n' in readline
         for j in range(con):
