@@ -9,7 +9,7 @@ read con
 echo "How many times do you want to execute?"
 read time
 
-rm ./result -r
+rm network.conf network.pro ./result -r
 mkdir ./result
 
 for i in $(seq 1 $time)

@@ -8,9 +8,7 @@ net = Network()
 
 with open("./result/network" + sys.argv[1] + ".txt", "r") as f:
     tit = f.readline()
-    tit = tit.split()
     neuron = int(tit[0])
-    con = int(tit[1])
     for i in range(neuron):
         name = "neuron" + str(i)
         #  (Name, N, C, Taum, RestPot, ResetPot, Threshold)
@@ -28,18 +26,28 @@ with open("./result/network" + sys.argv[1] + ".txt", "r") as f:
     for i in range(int(neuron*0.75)):
         name = f.readline()
         name = name.strip()  #remove '\n' in readline
-        for j in range(con):
+        while 1 :
             next = f.readline()
+            next = next.strip()
+            if(next == "endneu"):
+                break
             next = next.split()
             next = next[2]
+            if(next == "//" or next == "no"):
+                continue
             net.add_target(name, next, 'Ach', 5, 1)
     for i in range(int(neuron*0.75), neuron):
         name = f.readline()
         name = name.strip()  #remove '\n' in readline
-        for j in range(con):
+        while 1 :
             next = f.readline()
+            next = next.strip()
+            if(next == "endneu"):
+                break
             next = next.split()
             next = next[2]
+            if(next == "//" or next == "no"):
+                continue
             net.add_target(name, next, 'GABA', 1, 1)
 
 # Generate pro file

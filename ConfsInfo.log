@@ -1,1387 +1,200 @@
 configuration information:----------------------------------------
 population:0
-NeuPopuName:neuron0, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron0, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:1
-NeuPopuName:neuron1, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron1, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:2
-NeuPopuName:neuron2, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron2, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:3
-NeuPopuName:neuron3, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron3, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:4
-NeuPopuName:neuron4, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron4, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:5
-NeuPopuName:neuron5, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron5, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:6
-NeuPopuName:neuron6, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron6, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:7
-NeuPopuName:neuron7, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron7, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:8
-NeuPopuName:neuron8, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron8, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:9
-NeuPopuName:neuron9, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron9, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:10
-NeuPopuName:neuron10, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron10, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:11
-NeuPopuName:neuron11, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron11, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
 TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:12
-NeuPopuName:neuron12, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron12, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:13
-NeuPopuName:neuron13, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron13, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:14
-NeuPopuName:neuron14, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron14, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
 ------------------------------------------------------------------
 population:15
-NeuPopuName:neuron15, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron15, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron7 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
 ------------------------------------------------------------------
 population:16
-NeuPopuName:neuron16, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron16, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron0 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
+TarPopuName:neuron8 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
 ------------------------------------------------------------------
 population:17
-NeuPopuName:neuron17, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron17, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron14 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
+TarPopuName:neuron10 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
 ------------------------------------------------------------------
 population:18
-NeuPopuName:neuron18, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron18, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
+TarPopuName:neuron16 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
+TarPopuName:neuron12 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
 ------------------------------------------------------------------
 population:19
-NeuPopuName:neuron19, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
+NeuPopuName:neuron19, N=1 Taum=15 Vth=-50 El=-70 g=2.5e-09 Cm=0.5 Vreset=-55
 Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
  pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
 NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
 NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
 
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:20
-NeuPopuName:neuron20, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:21
-NeuPopuName:neuron21, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:22
-NeuPopuName:neuron22, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:23
-NeuPopuName:neuron23, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:24
-NeuPopuName:neuron24, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:25
-NeuPopuName:neuron25, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:26
-NeuPopuName:neuron26, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:27
-NeuPopuName:neuron27, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:28
-NeuPopuName:neuron28, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:29
-NeuPopuName:neuron29, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:30
-NeuPopuName:neuron30, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:31
-NeuPopuName:neuron31, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:32
-NeuPopuName:neuron32, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:33
-NeuPopuName:neuron33, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:34
-NeuPopuName:neuron34, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron25 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:35
-NeuPopuName:neuron35, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron40 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:36
-NeuPopuName:neuron36, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:37
-NeuPopuName:neuron37, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:38
-NeuPopuName:neuron38, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron6 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:39
-NeuPopuName:neuron39, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:40
-NeuPopuName:neuron40, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron48 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron20 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:41
-NeuPopuName:neuron41, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron5 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron49 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron11 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron21 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron43 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:42
-NeuPopuName:neuron42, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron3 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron23 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron4 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron37 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron12 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron31 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:43
-NeuPopuName:neuron43, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron42 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron39 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron10 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron22 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron32 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron9 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron34 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron30 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron44 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron13 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron15 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron41 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:44
-NeuPopuName:neuron44, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron8 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron24 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron36 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron7 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron17 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron45 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron33 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron0 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron38 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron29 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron1 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron35 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron2 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron19 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron28 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron16 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron27 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron26 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron46 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron47 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron14 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-TarPopuName:neuron18 TarReceptor:Ach, Connectivity=1 MeanEff=5 weight=1
-------------------------------------------------------------------
-population:45
-NeuPopuName:neuron45, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron42 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron32 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron11 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron10 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron43 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron40 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron46 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron20 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron13 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron24 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron41 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron44 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron12 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron15 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron8 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron21 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron23 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron18 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron26 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron4 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron49 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-------------------------------------------------------------------
-population:46
-NeuPopuName:neuron46, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron17 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron7 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron29 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron32 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron39 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron33 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron10 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron1 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron22 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron40 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron16 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron26 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron44 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron48 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron45 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron42 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron14 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron28 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron47 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron13 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron19 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-------------------------------------------------------------------
-population:47
-NeuPopuName:neuron47, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron30 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron28 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron9 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron19 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron10 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron27 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron20 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron26 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron15 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron48 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron21 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron36 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron34 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron23 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron49 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-------------------------------------------------------------------
-population:48
-NeuPopuName:neuron48, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron18 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron47 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron5 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron9 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron33 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron11 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron32 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron36 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron39 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron38 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron4 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron26 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron29 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron42 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron21 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron37 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron22 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron46 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron49 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron2 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron19 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-------------------------------------------------------------------
-population:49
-NeuPopuName:neuron49, N=1 Taum=10 Vth=-30.01 El=-70 g=2.5e-09 Cm=1 Vreset=-50
-Vrsting_ca=0 Alpha_ca=0 Tau_ca=0 Eff_ca=0 STDeP=0 STDeTau=0
- pv=0.6 tD=300 aF=0.0035 tF=7000 aCap=250 tCap=2 aCar=0.1 tCar=2000
-NeuRepName:Ach, Tau=20 Vrv=0 FExt=0 MnExtEff=2.1 MnExtCon=1
-NeuRepName:GABA, Tau=5 Vrv=-70 FExt=0 MnExtEff=2.1 MnExtCon=1
-
-TarPopuName:neuron9 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron33 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron24 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron20 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron25 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron15 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron36 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron44 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron18 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron7 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron17 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron11 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron32 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron34 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron42 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron21 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron16 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron28 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron2 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
-TarPopuName:neuron19 TarReceptor:GABA, Connectivity=1 MeanEff=0.5 weight=1
+TarPopuName:neuron2 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
+TarPopuName:neuron13 TarReceptor:GABA, Connectivity=1 MeanEff=1 weight=1
 ------------------------------------------------------------------
