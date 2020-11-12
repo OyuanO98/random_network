@@ -1,0 +1,263 @@
+20 179
+neuron0
+0 neuron11 neuron18
+1 neuron5 neuron19
+2 neuron9 neuron8
+3 neuron2 no
+4 neuron9 no
+5 neuron2 no
+6 neuron8 no
+7 neuron3 no
+8 neuron11 no
+9 neuron13 no
+endneu
+neuron1
+0 neuron2 neuron4
+1 neuron7 neuron8
+2 neuron19 neuron2
+3 neuron3 neuron2
+4 neuron8 neuron2
+5 neuron13 neuron12
+6 neuron6 neuron9
+7 neuron17 no
+8 neuron17 no
+endneu
+neuron2
+0 neuron1 neuron3
+1 neuron10 neuron1
+2 neuron1 neuron6
+3 neuron11 neuron6
+4 neuron1 neuron0
+5 neuron11 neuron0
+6 neuron6 no
+7 neuron15 no
+8 neuron7 no
+9 neuron3 no
+10 neuron6 no
+11 neuron9 no
+endneu
+neuron3
+0 neuron2 neuron8
+1 neuron7 neuron16
+2 neuron10 neuron16
+3 no neuron1
+4 no neuron18
+5 no neuron17
+6 no neuron0
+7 no neuron17
+8 no neuron2
+9 no neuron11
+10 no neuron13
+11 no neuron13
+12 no neuron17
+13 no //
+endneu
+neuron4
+0 neuron1 neuron9
+1 neuron17 neuron7
+2 neuron15 neuron12
+3 neuron16 neuron19
+4 no neuron5
+endneu
+neuron5
+0 neuron13 neuron6
+1 neuron13 neuron12
+2 neuron15 neuron6
+3 neuron10 neuron0
+4 neuron12 neuron8
+5 neuron4 neuron10
+6 neuron7 neuron9
+7 neuron8 neuron14
+8 neuron14 neuron9
+9 neuron15 neuron11
+10 neuron16 neuron13
+endneu
+neuron6
+0 neuron5 neuron16
+1 neuron14 neuron15
+2 neuron2 neuron17
+3 neuron5 neuron7
+4 neuron2 neuron1
+5 neuron16 neuron7
+6 neuron10 neuron2
+7 no neuron14
+8 no neuron2
+9 no neuron11
+10 no neuron13
+11 no neuron14
+12 no //
+13 no //
+14 no //
+15 no //
+endneu
+neuron7
+0 neuron9 neuron10
+1 neuron4 neuron3
+2 neuron16 neuron1
+3 neuron6 neuron14
+4 neuron15 neuron5
+5 neuron19 neuron8
+6 neuron6 neuron16
+7 neuron9 neuron2
+8 no neuron9
+9 no neuron11
+10 no neuron13
+endneu
+neuron8
+0 neuron3 neuron14
+1 neuron10 neuron14
+2 neuron15 neuron9
+3 neuron16 neuron1
+4 neuron1 neuron5
+5 neuron0 neuron0
+6 neuron14 neuron9
+7 neuron18 neuron17
+8 neuron5 neuron10
+9 neuron7 neuron11
+10 neuron12 neuron13
+11 neuron15 neuron17
+12 no //
+13 no //
+14 no //
+endneu
+neuron9
+0 neuron4 neuron7
+1 neuron19 neuron19
+2 neuron17 neuron15
+3 neuron19 neuron0
+4 neuron8 neuron0
+5 neuron17 neuron7
+6 neuron1 neuron12
+7 neuron5 neuron16
+8 neuron8 neuron2
+9 neuron16 neuron13
+10 neuron11 neuron17
+11 neuron13 neuron17
+12 neuron14 //
+13 neuron5 //
+14 neuron7 //
+15 no //
+endneu
+neuron10
+0 neuron7 neuron8
+1 neuron13 neuron3
+2 neuron5 neuron2
+3 neuron13 neuron5
+4 neuron14 neuron6
+5 neuron16 neuron11
+6 neuron8 no
+7 neuron11 no
+endneu
+neuron11
+0 neuron10 neuron17
+1 neuron14 neuron13
+2 neuron15 neuron0
+3 neuron16 neuron2
+4 neuron17 neuron2
+5 neuron3 neuron12
+6 neuron5 neuron0
+7 neuron6 neuron9
+8 neuron7 neuron10
+9 neuron8 neuron13
+endneu
+neuron12
+0 neuron5 neuron16
+1 neuron4 neuron15
+2 neuron13 neuron16
+3 neuron1 neuron5
+4 neuron11 neuron13
+5 neuron9 neuron8
+endneu
+neuron13
+0 neuron11 neuron10
+1 neuron14 neuron5
+2 neuron12 neuron5
+3 neuron17 neuron1
+4 neuron16 neuron12
+5 neuron9 neuron10
+6 neuron11 neuron0
+7 neuron14 neuron9
+8 neuron15 neuron14
+9 neuron16 neuron14
+10 neuron17 neuron17
+11 neuron3 neuron17
+12 neuron5 //
+13 neuron6 //
+14 neuron7 //
+15 neuron8 //
+16 neuron17 //
+17 neuron3 //
+18 no //
+endneu
+neuron14
+0 neuron8 neuron6
+1 neuron8 neuron13
+2 neuron18 neuron8
+3 neuron7 neuron18
+4 neuron5 neuron5
+5 neuron6 neuron10
+6 neuron13 neuron16
+7 neuron13 neuron9
+8 neuron15 neuron11
+9 neuron6 neuron13
+endneu
+neuron15
+0 neuron6 neuron8
+1 neuron12 neuron4
+2 neuron9 neuron5
+3 no neuron7
+4 no neuron5
+5 no neuron8
+6 no neuron2
+7 no neuron17
+8 no neuron11
+9 no neuron13
+10 no neuron14
+11 no neuron17
+12 no //
+13 no //
+14 no //
+15 no //
+16 no //
+17 no //
+endneu
+neuron16
+0 neuron6 neuron8
+1 neuron12 neuron4
+2 neuron3 neuron7
+3 neuron3 neuron6
+4 neuron12 neuron5
+5 neuron17 neuron10
+6 neuron17 neuron9
+7 neuron7 neuron13
+8 neuron14 neuron11
+9 neuron9 neuron13
+endneu
+neuron17
+0 neuron11 neuron4
+1 neuron6 neuron9
+2 neuron3 neuron16
+3 neuron3 neuron16
+4 neuron8 neuron1
+5 neuron15 neuron9
+6 neuron9 neuron13
+7 neuron13 neuron1
+8 neuron8 neuron11
+9 neuron9 neuron13
+10 neuron13 neuron13
+11 neuron15 no
+12 neuron3 no
+endneu
+neuron18
+0 neuron0 neuron19
+1 neuron14 neuron14
+2 neuron3 neuron19
+3 neuron19 neuron8
+endneu
+neuron19
+0 neuron18 neuron9
+1 neuron0 neuron9
+2 neuron9 neuron1
+3 neuron18 neuron7
+4 neuron4 neuron18
+endneu

@@ -6,9 +6,9 @@ import sys
 net = Network()
 
 
-with open("./result/network" + sys.argv[1] + ".txt", "r") as f:
-    tit = f.readline()
-    neuron = int(tit[0])
+with open("./network" + sys.argv[1] + ".txt", "r") as f:
+    neuron = f.readline()
+    neuron = int(neuron)
     for i in range(neuron):
         name = "neuron" + str(i)
         #  (Name, N, C, Taum, RestPot, ResetPot, Threshold)
@@ -25,31 +25,42 @@ with open("./result/network" + sys.argv[1] + ".txt", "r") as f:
 #set connection
     for i in range(int(neuron*0.75)):
         name = f.readline()
-        name = name.strip()  #remove '\n' in readline
+        name = name.strip('\n')  #remove '\n' in readline
+        collect = {}
         while 1 :
             next = f.readline()
-            next = next.strip()
+            next = next.strip('\n')
             if(next == "endneu"):
                 break
             next = next.split()
             next = next[2]
             if(next == "//" or next == "no"):
                 continue
-            net.add_target(name, next, 'Ach', 5, 1)
+            if(next in collect):
+                collect[next] = collect[next] + 1
+            else:
+                collect[next] = 1
+        for j in collect:
+            net.add_target(name, j, 'Ach', 1, collect[j])
     for i in range(int(neuron*0.75), neuron):
         name = f.readline()
-        name = name.strip()  #remove '\n' in readline
+        name = name.strip('\n')  #remove '\n' in readline
+        collect = {}
         while 1 :
             next = f.readline()
-            next = next.strip()
+            next = next.strip('\n')
             if(next == "endneu"):
                 break
             next = next.split()
             next = next[2]
             if(next == "//" or next == "no"):
                 continue
-            net.add_target(name, next, 'GABA', 1, 1)
-
+            if(next in collect):
+                collect[next] = collect[next] + 1
+            else:
+                collect[next] = 1
+        for j in collect:
+            net.add_target(name, j, 'GABA', 2, collect[j])
 # Generate pro file
 Type_Mem = 'ChangeMembraneNoise'
 Type_Freq = 'ChangeExtFreq'
@@ -57,8 +68,8 @@ Type_End = 'EndTrial'
 
 #  (Time, Type, GaussMean, GaussSTD)
 for i in range(10):
-    net.add_event(200, Type_Mem, 'neuron' + str(i), 4, 0)
-    net.add_event(300, Type_Mem, 'neuron' + str(i), 0, 0)
+    net.add_event(200, Type_Mem, 'neuron' + str(i), 4, 2)
+    net.add_event(300, Type_Mem, 'neuron' + str(i), 0, 2)
 net.add_event(1000, Type_End)
 
 net.add_output('FiringRateALL.dat', 'FiringRate', 'AllPopulation', 100, 10)

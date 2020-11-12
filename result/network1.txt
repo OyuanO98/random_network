@@ -1,285 +1,92 @@
-20
-neuron0
-0 neuron8 neuron11
-1 neuron12 neuron7
-2 neuron4 neuron10
-3 neuron8 neuron4
-4 neuron1 neuron7
-5 neuron7 neuron13
-6 neuron12 neuron2
-7 neuron1 neuron14
-8 neuron3 neuron3
-9 neuron5 neuron9
-10 no neuron3
-endneu
-neuron1
-0 neuron18 neuron18
-1 neuron3 neuron12
-2 neuron17 neuron2
-3 no neuron13
-4 no neuron12
-5 no neuron0
-6 no neuron0
-7 no neuron9
-endneu
-neuron2
-0 neuron1 neuron15
-1 neuron13 neuron11
-2 neuron14 neuron17
-3 neuron9 neuron4
-4 neuron9 neuron11
-5 neuron0 no
-6 neuron15 no
-7 neuron4 no
-8 neuron12 no
-endneu
-neuron3
-0 neuron16 neuron7
-1 neuron12 neuron1
-2 neuron5 neuron4
-3 neuron12 neuron7
-4 neuron12 neuron10
-5 neuron7 neuron8
-6 neuron14 neuron0
-7 neuron14 neuron6
-8 neuron17 neuron6
-9 neuron0 neuron4
-10 neuron15 neuron9
-11 neuron17 no
-12 neuron12 no
-13 neuron14 no
-14 neuron17 no
-15 neuron0 no
-16 neuron7 no
-endneu
-neuron4
-0 neuron10 neuron14
-1 neuron17 neuron12
-2 neuron3 neuron0
-3 neuron0 neuron11
-4 neuron2 neuron5
-5 neuron6 neuron17
-6 neuron5 neuron14
-7 neuron6 neuron2
-8 neuron3 no
-9 neuron6 no
-10 neuron12 no
-11 neuron6 no
-12 neuron12 no
-13 neuron14 no
-14 neuron15 no
-15 neuron12 no
-16 neuron17 no
-endneu
-neuron5
-0 neuron18 neuron18
-1 neuron4 neuron6
-2 neuron15 neuron3
-3 neuron17 neuron11
-4 neuron6 neuron4
-5 neuron15 neuron17
-6 neuron6 neuron0
-7 no neuron10
-8 no neuron14
-endneu
-neuron6
-0 neuron14 neuron14
-1 neuron5 neuron7
-2 neuron3 neuron17
-3 neuron3 neuron4
-4 neuron14 neuron18
-5 neuron7 neuron4
-6 neuron17 neuron5
-7 neuron14 neuron11
-8 neuron15 neuron14
-9 neuron14 neuron5
-10 neuron15 neuron4
-11 neuron12 neuron4
-endneu
-neuron7
-0 neuron3 neuron8
-1 neuron0 neuron15
-2 neuron6 neuron16
-3 neuron3 neuron11
-4 neuron0 neuron3
-5 no neuron0
-6 no neuron13
-7 no neuron12
-8 no neuron11
-9 no neuron6
-10 no neuron3
-endneu
-neuron8
-0 neuron7 neuron0
-1 neuron11 neuron17
-2 neuron16 neuron0
-3 neuron19 no
-4 neuron17 no
-5 neuron11 no
-6 neuron3 no
-7 neuron9 no
-endneu
-neuron9
-0 neuron11 neuron10
-1 neuron10 neuron13
-2 neuron14 neuron19
-3 neuron12 neuron2
-4 neuron17 neuron2
-5 neuron1 neuron8
-6 neuron12 no
-7 neuron0 no
-8 neuron3 no
-9 neuron14 no
-10 neuron17 no
-11 neuron14 no
-12 neuron14 no
-13 neuron15 no
-14 neuron14 no
-endneu
-neuron10
-0 neuron9 neuron4
-1 neuron0 neuron11
-2 neuron3 neuron9
-3 neuron5 no
-4 neuron15 no
-5 neuron15 no
-6 neuron14 no
-7 // no
-8 // no
-endneu
-neuron11
-0 neuron0 neuron9
-1 neuron2 neuron8
-2 neuron10 neuron19
-3 neuron4 neuron16
-4 neuron5 neuron8
-5 neuron7 no
-6 neuron2 no
-7 neuron6 no
-8 neuron7 no
-9 neuron15 no
-10 neuron12 no
-11 neuron14 no
-12 neuron15 no
-13 // no
-14 // no
-15 // no
-16 // no
-17 // no
-endneu
-neuron12
-0 neuron1 neuron0
-1 neuron4 neuron3
-2 neuron1 neuron3
-3 neuron17 neuron3
-4 neuron7 neuron16
-5 // neuron0
-6 // neuron9
-7 // neuron2
-8 // neuron9
-9 // neuron3
-10 // neuron4
-11 // neuron4
-12 // neuron4
-13 // neuron13
-14 // neuron11
-15 // neuron6
-endneu
-neuron13
-0 neuron9 neuron19
-1 neuron1 neuron17
-2 neuron0 neuron2
-3 neuron7 neuron16
-4 neuron15 neuron16
-5 neuron12 no
-6 // no
-7 // no
-8 // no
-9 // no
-10 // no
-11 // no
-12 // no
-13 // no
-14 // no
-15 // no
-endneu
-neuron14
-0 neuron4 neuron6
-1 neuron6 neuron15
-2 neuron15 neuron2
-3 neuron19 neuron18
-4 neuron4 neuron16
-5 neuron0 neuron9
-6 neuron5 neuron3
-7 neuron6 neuron3
-8 neuron15 neuron6
-9 // neuron3
-10 // neuron9
-11 no neuron4
-12 no neuron9
-13 no neuron6
-14 no neuron6
-15 no neuron9
-16 no neuron11
-17 no neuron9
-18 no neuron10
-endneu
-neuron15
-0 neuron2 neuron14
-1 neuron7 neuron17
-2 neuron14 neuron16
-3 no neuron16
-4 no neuron18
-5 no neuron5
-6 no neuron2
-7 no neuron5
-8 no neuron3
-9 no neuron13
-10 no neuron14
-11 no neuron4
-12 no neuron11
-13 no neuron6
-14 no neuron6
-15 no neuron10
-16 no neuron9
-17 no neuron10
-18 no neuron11
-endneu
-neuron16
-0 neuron7 neuron3
-1 neuron15 neuron8
-2 neuron11 no
-3 neuron13 no
-4 neuron15 no
-5 neuron12 no
-6 neuron13 no
-7 neuron14 no
-endneu
-neuron17
-0 neuron8 neuron4
-1 neuron13 neuron1
-2 neuron15 neuron19
-3 neuron2 neuron8
-4 neuron6 neuron12
-5 neuron4 neuron5
-6 neuron5 neuron9
-7 no neuron3
-8 no neuron3
-9 no neuron3
-10 no neuron6
-11 no neuron9
-12 no neuron4
-endneu
-neuron18
-0 neuron1 neuron1
-1 neuron5 neuron5
-2 neuron14 no
-3 neuron6 no
-4 neuron15 no
-endneu
-neuron19
-0 neuron13 neuron14
-1 neuron9 neuron8
-2 neuron11 no
-3 neuron17 no
-endneu
+seed: 1604834117
+30 493
+N0 13 18
+i: N3 N4 N8 N10 N11 N12 N15 N20 N22 N23 N24 N28 N29 
+o: N15 N4 N26 N28 N11 N14 N16 N3 N1 N5 N12 N6 N17 N22 N18 N23 N2 N20 
+N1 19 9
+i: N0 N2 N3 N4 N7 N8 N10 N12 N13 N15 N17 N19 N20 N22 N23 N24 N25 N26 N29 
+o: N5 N4 N6 N29 N13 N19 N20 N21 N12 
+N2 14 28
+i: N0 N3 N4 N9 N12 N15 N16 N18 N19 N21 N22 N23 N26 N29 
+o: N11 N1 N3 N8 N27 N21 N19 N4 N28 N22 N5 N23 N26 N9 N10 N18 N17 N29 N12 N13 N14 N15 N16 N6 N7 N20 N25 N24 
+N3 15 24
+i: N0 N2 N4 N6 N8 N9 N12 N14 N16 N18 N20 N23 N24 N26 N29 
+o: N0 N5 N12 N1 N28 N20 N21 N13 N9 N24 N10 N25 N22 N4 N23 N2 N6 N7 N11 N8 N14 N15 N16 N17 
+N4 17 16
+i: N0 N1 N2 N3 N5 N6 N8 N9 N10 N12 N16 N21 N22 N23 N25 N28 N29 
+o: N8 N12 N1 N26 N0 N2 N27 N28 N13 N19 N29 N25 N9 N10 N5 N3 
+N5 17 20
+i: N0 N1 N2 N3 N4 N6 N8 N9 N10 N11 N12 N15 N16 N22 N23 N25 N29 
+o: N21 N17 N6 N11 N9 N10 N4 N19 N12 N8 N22 N14 N13 N27 N23 N18 N28 N20 N24 N25 
+N6 17 7
+i: N0 N1 N2 N3 N5 N8 N9 N10 N11 N12 N13 N16 N22 N23 N25 N28 N29 
+o: N15 N5 N26 N3 N23 N27 N4 
+N7 14 14
+i: N2 N3 N8 N9 N10 N11 N12 N14 N16 N19 N22 N25 N28 N29 
+o: N23 N13 N19 N10 N11 N22 N12 N14 N20 N24 N16 N21 N15 N1 
+N8 14 28
+i: N2 N3 N4 N5 N9 N11 N12 N13 N16 N20 N22 N25 N28 N29 
+o: N12 N16 N11 N3 N27 N29 N25 N4 N6 N22 N23 N1 N15 N19 N5 N7 N9 N10 N17 N13 N20 N14 N21 N24 N26 N18 N28 N0 
+N9 12 16
+i: N2 N3 N4 N5 N8 N11 N12 N17 N19 N20 N22 N25 
+o: N3 N4 N2 N19 N15 N5 N8 N6 N22 N7 N10 N16 N26 N11 N23 N12 
+N10 15 17
+i: N2 N3 N4 N5 N7 N8 N9 N11 N12 N19 N22 N25 N26 N27 N29 
+o: N28 N4 N11 N14 N12 N21 N15 N1 N16 N5 N6 N25 N7 N26 N29 N13 N0 
+N11 19 23
+i: N0 N2 N3 N5 N7 N8 N9 N10 N12 N13 N15 N16 N20 N23 N24 N25 N26 N28 N29 
+o: N18 N26 N17 N25 N12 N21 N29 N27 N9 N5 N19 N8 N6 N10 N13 N14 N23 N28 N0 N15 N20 N16 N7 
+N12 21 27
+i: N0 N1 N2 N3 N4 N5 N7 N8 N9 N10 N11 N13 N15 N16 N19 N20 N22 N23 N25 N26 N29 
+o: N2 N13 N14 N0 N24 N4 N1 N15 N3 N18 N29 N5 N6 N7 N8 N10 N26 N11 N16 N25 N19 N27 N9 N17 N20 N21 N22 
+N13 21 19
+i: N1 N2 N3 N4 N5 N7 N8 N10 N11 N12 N16 N17 N18 N19 N20 N21 N22 N23 N25 N26 N29 
+o: N11 N18 N16 N14 N1 N22 N6 N17 N26 N8 N23 N19 N20 N21 N24 N25 N12 N27 N28 
+N14 15 4
+i: N0 N2 N3 N5 N7 N8 N10 N11 N12 N13 N16 N20 N22 N24 N25 
+o: N26 N3 N17 N7 
+N15 18 13
+i: N0 N2 N3 N6 N7 N8 N9 N10 N11 N12 N16 N19 N22 N23 N24 N25 N28 N29 
+o: N20 N11 N0 N16 N23 N22 N21 N12 N1 N26 N5 N24 N2 
+N16 19 19
+i: N0 N2 N3 N7 N8 N9 N10 N11 N12 N13 N15 N19 N22 N23 N24 N25 N26 N28 N29 
+o: N19 N2 N15 N8 N13 N28 N24 N3 N11 N17 N18 N4 N5 N14 N20 N12 N6 N7 N23 
+N17 18 7
+i: N0 N2 N3 N5 N8 N11 N12 N13 N14 N16 N20 N21 N22 N23 N24 N25 N27 N29 
+o: N19 N9 N18 N1 N13 N20 N27 
+N18 15 4
+i: N0 N2 N5 N8 N11 N12 N13 N16 N17 N22 N23 N24 N25 N26 N29 
+o: N2 N22 N3 N13 
+N19 19 18
+i: N1 N2 N4 N5 N7 N8 N9 N11 N12 N13 N16 N17 N20 N21 N22 N23 N24 N25 N29 
+o: N10 N21 N7 N9 N15 N2 N12 N25 N13 N16 N22 N26 N28 N27 N20 N1 N23 N24 
+N20 17 18
+i: N0 N1 N2 N3 N5 N7 N8 N11 N12 N13 N15 N16 N17 N19 N22 N25 N29 
+o: N29 N1 N14 N12 N19 N11 N23 N13 N3 N26 N27 N21 N0 N9 N22 N8 N17 N24 
+N21 17 8
+i: N1 N2 N3 N5 N7 N8 N10 N11 N12 N13 N15 N19 N20 N24 N25 N26 N29 
+o: N4 N26 N19 N27 N13 N17 N23 N2 
+N22 15 26
+i: N0 N2 N3 N5 N7 N8 N9 N12 N13 N15 N18 N19 N20 N25 N29 
+o: N6 N25 N23 N27 N26 N7 N2 N8 N10 N28 N20 N14 N13 N16 N4 N12 N29 N15 N17 N18 N0 N24 N19 N1 N9 N5 
+N23 18 20
+i: N0 N2 N3 N5 N6 N7 N8 N9 N11 N13 N15 N16 N19 N20 N21 N22 N25 N29 
+o: N15 N29 N11 N26 N27 N28 N12 N24 N16 N18 N0 N17 N1 N13 N6 N4 N2 N19 N3 N5 
+N24 16 13
+i: N2 N3 N5 N7 N8 N12 N13 N15 N16 N19 N20 N22 N23 N25 N26 N29 
+o: N16 N14 N17 N15 N0 N25 N3 N28 N1 N11 N18 N21 N19 
+N25 15 26
+i: N2 N3 N4 N5 N8 N10 N11 N12 N13 N19 N22 N24 N26 N28 N29 
+o: N10 N4 N13 N5 N21 N23 N24 N7 N22 N8 N6 N18 N9 N20 N19 N11 N26 N27 N12 N1 N14 N15 N28 N16 N17 N29 
+N26 19 12
+i: N0 N2 N4 N6 N8 N9 N10 N11 N12 N13 N14 N15 N19 N20 N21 N22 N23 N25 N29 
+o: N16 N2 N25 N18 N13 N21 N1 N10 N12 N24 N3 N11 
+N27 16 2
+i: N2 N4 N5 N6 N8 N11 N12 N13 N17 N19 N20 N21 N22 N23 N25 N29 
+o: N10 N17 
+N28 16 10
+i: N0 N2 N3 N4 N5 N8 N10 N11 N13 N16 N19 N22 N23 N24 N25 N29 
+o: N6 N29 N7 N4 N15 N25 N8 N16 N0 N11 
+N29 12 27
+i: N1 N2 N4 N8 N10 N11 N12 N20 N22 N23 N25 N28 
+o: N6 N22 N8 N16 N0 N10 N3 N19 N15 N25 N12 N17 N1 N2 N21 N11 N4 N23 N20 N18 N24 N26 N27 N28 N5 N13 N7 
