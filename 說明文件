@@ -1,0 +1,9 @@
+目前重新寫了一個產生network的程式：networkgen5.cpp(networkgen5.so)，比起networkgen4.cpp(networkgen4.so)不會產生重複連結(因此要增強neuron weight)。
+執行後產生network(一數字，方便大量產生network時有不同檔名).txt，內容如下：
+seed: (亂數種子碼，空白為舊network沒紀錄到)
+30 498(network神經總數，network synapse總數)
+N0 12 10(編號0的neuron，12個connection輸入，10個connection輸出)
+i: N23 N3 ...(輸入訊號的有編號23、編號3 neuron)
+o: N9 N1 ...(輸入訊號的有編號9、編號1 neuron)
+
+最後由genconfpro.py將netwoek轉換成network.conf，network.pro操作也寫在這個檔案內。
