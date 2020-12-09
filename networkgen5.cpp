@@ -2,8 +2,8 @@
 #include <cstdio>
 #include <cstring>
 #include <vector>
-#include <cstdlib>
 #include <ctime>
+#include <random>
 
 using namespace std;
 
@@ -91,7 +91,6 @@ bool check(neu&, neu&);
 int main(int argc, char *argv[])
 {
     unsigned int num_neuron = atoi(argv[1]);
-    unsigned int at_least_connection = atoi(argv[2]);
     unsigned int totol_connection=0, one_connection, rnum;
     unsigned int i, j; //counter
 
@@ -103,10 +102,12 @@ int main(int argc, char *argv[])
     }
 
     unsigned long seed = static_cast<unsigned long>(time(0));
+    default_random_engine generator(seed);
+    normal_distribution<float> ndis((unsigned)num_neuron*0.2, (unsigned)num_neuron*0.05);
     srand(seed);
     for(i=0; i<num_neuron; i++)
     {
-        one_connection = rand()%(num_neuron - at_least_connection) + at_least_connection;
+        one_connection = ndis(generator);//************
         for(j=0; j<one_connection; j++)
         {
             rnum = rand()%num_neuron;
@@ -122,11 +123,11 @@ int main(int argc, char *argv[])
     }
 
     FILE* StoreSeed = fopen("./seed.txt", "a");
-    fprintf(StoreSeed, "%s %lu\n", argv[3], seed);
+    fprintf(StoreSeed, "%s %lu\n", argv[2], seed);
     fclose(StoreSeed);
 
     char filename[31] = "./result/network";
-    strcat(filename, argv[3]);
+    strcat(filename, argv[2]);
     strcat(filename, ".txt");
     FILE* net = fopen(filename, "w");
     fprintf(net, "seed: %lu\n", seed);
